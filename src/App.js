@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React !!!111!
+          Test the changes in the workflow!!!
         </a>
       </header>
     </div>
